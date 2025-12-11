@@ -23,3 +23,7 @@ open index.html
 - HTML5
 - CSS3
 - Vanilla JavaScript
+
+## ライセンス
+
+MIT License
